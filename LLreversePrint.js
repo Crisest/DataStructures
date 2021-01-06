@@ -13,6 +13,10 @@ const ob3 = {
 ob1.next = ob2
 ob2.next = ob3
 
+class LinkedList {
+
+}
+
 
 
 
